@@ -1,14 +1,14 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "adding users and logging in",
+  "description": "example adding users and letting them log in",
   "keywords": [
-    "getting-started",
-    "go",
-    "sample",
-    "example"
+    "users",
+    "logging in",
+    "example",
+    "tutorial"
   ],
   "image": "heroku/go:1.6",
-  "mount_dir": "src/github.com/heroku/go-getting-started",
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "mount_dir": "src/github.com/mremick/users_login",
+  "website": "http://github.com/mremick/users_login",
+  "repository": "http://github.com/mremick/users_login"
 }
